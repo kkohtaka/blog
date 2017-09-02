@@ -1,0 +1,15 @@
+baseURL = "http://blog.kohtaka.me/"
+languageCode = "en-us"
+title = "Private Remarks"
+hasCJKLanguage = true
+theme = "pickles"
+
+[params]
+  twitter = "kohtaka"
+  facebook = "kkohtaka"
+  github = "kkohtaka"
+  linkedin = "kkohtaka"
+  disqus = "private-remarks"
+  ga_api_key = "UA-105798239-1"
+  author = "Kazumasa Kohtaka"
+  bio = "A Japanese Software Engineer"
